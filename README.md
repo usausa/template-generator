@@ -1,1 +1,1 @@
-# template-generator
+# template-source-generator

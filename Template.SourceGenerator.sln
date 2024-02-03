@@ -16,13 +16,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		LICENSE = LICENSE
 		README.md = README.md
 		Template.SourceGenerator.sln.DotSettings = Template.SourceGenerator.sln.DotSettings
+		test.runsettings = test.runsettings
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template.SourceGenerator.Example", "Template.SourceGenerator.Example\Template.SourceGenerator.Example.csproj", "{10FE5F04-0CEF-4B5C-91BB-BC26638761CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template.SourceGenerator.Example", "Template.SourceGenerator.Example\Template.SourceGenerator.Example.csproj", "{10FE5F04-0CEF-4B5C-91BB-BC26638761CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template.SourceGenerator.Attributes", "Template.SourceGenerator.Attributes\Template.SourceGenerator.Attributes.csproj", "{7B1827FC-5A30-41E8-89B0-05FB866F3952}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template.SourceGenerator.Attributes", "Template.SourceGenerator.Attributes\Template.SourceGenerator.Attributes.csproj", "{7B1827FC-5A30-41E8-89B0-05FB866F3952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template.SourceGenerator.Tests", "Template.SourceGenerator.Tests\Template.SourceGenerator.Tests.csproj", "{87F5CAB3-A7E0-4E4C-B803-B45A45436169}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template.SourceGenerator.Tests", "Template.SourceGenerator.Tests\Template.SourceGenerator.Tests.csproj", "{87F5CAB3-A7E0-4E4C-B803-B45A45436169}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

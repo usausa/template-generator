@@ -17,6 +17,7 @@
   <Import Project="..\Template.SourceGenerator\build\Template.SourceGenerator.props" />
 
   <ItemGroup>
+    <ProjectReference Include="..\Template.SourceGenerator.Attributes\Template.SourceGenerator.Attributes.csproj" />
     <ProjectReference Include="..\Template.SourceGenerator\Template.SourceGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
   </ItemGroup>
 

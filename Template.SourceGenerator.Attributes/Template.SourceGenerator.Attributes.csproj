@@ -6,4 +6,11 @@
     <CodeAnalysisRuleSet>..\Analyzers.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageId>Template.SourceGenerator.Attributes</PackageId>
+    <Title>Template.SourceGenerator.Attributes</Title>
+    <Description>Template source generator attributes.</Description>
+    <PackageTags>sourcegenerator</PackageTags>
+  </PropertyGroup>
+
 </Project>

@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "EmbeddedBuildProperty": {
+    "Template.SourceGenerator": {
       "commandName": "DebugRoslynComponent",
       "targetProject": "..\\Template.SourceGenerator.Example\\Template.SourceGenerator.Example.csproj"
     }

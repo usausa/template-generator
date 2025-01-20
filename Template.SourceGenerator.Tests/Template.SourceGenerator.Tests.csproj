@@ -21,7 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Template.SourceGenerator.Attributes\Template.SourceGenerator.Attributes.csproj" />
     <ProjectReference Include="..\Template.SourceGenerator\Template.SourceGenerator.csproj" />
   </ItemGroup>
 

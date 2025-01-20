@@ -1,4 +1,4 @@
-namespace Template.SourceGenerator.Example;
+namespace Develop;
 
 internal static class Program
 {
